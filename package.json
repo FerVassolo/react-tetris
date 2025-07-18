@@ -1,6 +1,6 @@
 {
   "name": "@fervassolo/react-tetris-fork",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
@@ -9,7 +9,7 @@
     "url": "https://github.com/FerVassolo/react-tetris.git"
   },
   "dependencies": {
-    "keymaster": "1.6.2"
+    "hotkeys-js": "^3.13.15"
   },
   "scripts": {
     "build:lib": "tsc",
