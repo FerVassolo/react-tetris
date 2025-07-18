@@ -1,11 +1,12 @@
 {
-  "name": "react-tetris",
-  "version": "0.4.0",
-  "description": "Embed a game of Tetris in your React app",
-  "main": "lib/components/Tetris.js",
+  "name": "@fervassolo/react-tetris-fork",
+  "version": "0.1.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/brandly/react-tetris"
+    "url": "https://github.com/FerVassolo/react-tetris.git"
   },
   "dependencies": {
     "keymaster": "1.6.2"
